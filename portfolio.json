@@ -5,7 +5,7 @@
             "img": "https://ronaldcoe.github.io/sourcesportfolio/images/national_app.png",
             "description": "The National Park Finder application allows the user to locate all the National Parks in every state, and also see the contact information along with the openning hours. The purpose of this application was to practice ARCgis module.",
             "link": "https://ronaldcoe.github.io/national-park/",
-            "technologies": "JavaScript, ARCgis, HTML, CSS, National Park Service API"
+            "technologies": "JavaScript, ArcGIS, HTML, CSS, National Park Service API"
         },
         {
             "name": "Task Manager App",
@@ -24,7 +24,7 @@
         {
             "name": "Python Arcade Game",
             "img": "https://ronaldcoe.github.io/sourcesportfolio/images/arcade.png",
-            "description":"This is a game made using Arcade library for Python. The game is very simple. The player is a spacehip. Yo can move left, right, up and down. The objective is to destroy as many metiorids as you can using the space key shooting lasers.",
+            "description":"This is a game made using Arcade library for Python. The game is very simple. The player is a spaceship. You can move left, right, up, and down. The objective is to destroy as many metiorids as you can using the space key shooting lasers.",
             "link": "https://github.com/ronaldcoe/python-arcade-game",
             "technologies": "Python, Arcade"
         },
