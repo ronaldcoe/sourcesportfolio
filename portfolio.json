@@ -1,39 +1,46 @@
 {
-    "projects":[
-        {
-            "name": "National Park app",
-            "img": "https://ronaldcoe.github.io/sourcesportfolio/images/national_app.png",
-            "description": "The National Park Finder application allows the user to locate all the National Parks in every state, and also see the contact information along with the opening hours. The purpose of this application was to practice the ARCgis module.",
-            "link": "https://ronaldcoe.github.io/national-park/",
-            "technologies": "JavaScript, ArcGIS, HTML, CSS, National Park Service API"
-        },
-        {
-            "name": "Task Manager App",
-            "img": "https://ronaldcoe.github.io/sourcesportfolio/images/task_manager.png",
-            "description":"I built this app with the intention of learning Node.js, JavaScript, and MongoDB. This was the first time using these tools. This application allows the user to keep track of his or her tasks. I wanted to make a simple app that would be easy to use and very intuitive.",
-            "link": "https://github.com/ronaldcoe/tasks_manager",
-            "technologies": "Node, HTML, CSS, MongoDB"
-        },
-        {
-            "name": "Java ATM App",
-            "img": "https://ronaldcoe.github.io/sourcesportfolio/images/java.png",
-            "description":"This application makes use of loops, classes, objects, conditional statements, input and output, and functions. It allows the user to create an account, check his balance, make deposits, and withdraw money.",
-            "link": "https://github.com/ronaldcoe/atm_app",
-            "technologies": "Java"
-        },
-        {
-            "name": "Python Arcade Game",
-            "img": "https://ronaldcoe.github.io/sourcesportfolio/images/arcade.png",
-            "description":"This is a game made using Arcade library for Python. The game is very simple. The player is a spaceship. You can move left, right, up, and down. The objective is to destroy as many meteoroids as you can using the space key shooting lasers.",
-            "link": "https://github.com/ronaldcoe/python-arcade-game",
-            "technologies": "Python, Arcade"
-        },
-        {
-            "name": "CrossDrop",
-            "img": "https://ronaldcoe.github.io/sourcesportfolio/images/crossdrop.png",
-            "description":"This was a competition where I and my friends coded a website for the school's food venue. The purpose of the website was to let students order their food online and avoid lines to pay for it.",
-            "link": "https://github.com/Lakeram21/2022Hackaton",
-            "technologies": "React, MongoDB, Express, Nodejs"
-        }
-    ]
+  "projects": [
+    {
+      "name": "Scrambled",
+      "img": "https://ronaldcoe.github.io/sourcesportfolio/images/scrambled.png",
+      "description": "A word-guessing game built with Next.js where users solve daily puzzles across different categories. Players select letter tiles to guess words against a timer and can view a leaderboard of friends' scores. The game includes a simple admin panel for creating new puzzles and supports three languages: English, Spanish, and Russian.",
+      "link": "https://scramble-six.vercel.app/",
+      "technologies": "React, Next.js, TypeScript, HTML, CSS"
+    },
+    {
+      "name": "National Park Finder",
+      "img": "https://ronaldcoe.github.io/sourcesportfolio/images/national_app.png",
+      "description": "An application that allows users to locate National Parks in any state and view their contact information and opening hours. This project was developed to practice implementing the ArcGIS module and integrates with the National Park Service API.",
+      "link": "https://ronaldcoe.github.io/national-park/",
+      "technologies": "JavaScript, ArcGIS, HTML, CSS, National Park Service API"
+    },
+    {
+      "name": "Task Manager App",
+      "img": "https://ronaldcoe.github.io/sourcesportfolio/images/task_manager.png",
+      "description": "A simple, intuitive task tracking application built as a learning project for Node.js, JavaScript, and MongoDB. The app allows users to create, manage, and organize their personal tasks in a user-friendly interface.",
+      "link": "https://github.com/ronaldcoe/tasks_manager",
+      "technologies": "Node.js, HTML, CSS, MongoDB"
+    },
+    {
+      "name": "Java ATM App",
+      "img": "https://ronaldcoe.github.io/sourcesportfolio/images/java.png",
+      "description": "A Java application simulating ATM functionality that demonstrates object-oriented programming principles. Users can create accounts, check balances, make deposits, and withdraw money through an interactive console interface.",
+      "link": "https://github.com/ronaldcoe/atm_app",
+      "technologies": "Java"
+    },
+    {
+      "name": "Python Arcade Game",
+      "img": "https://ronaldcoe.github.io/sourcesportfolio/images/arcade.png",
+      "description": "A space-themed game created with Python's Arcade library. Players control a spaceship that can move in all directions and must destroy as many meteoroids as possible by shooting lasers with the space key.",
+      "link": "https://github.com/ronaldcoe/python-arcade-game",
+      "technologies": "Python, Arcade"
+    },
+    {
+      "name": "CrossDrop",
+      "img": "https://ronaldcoe.github.io/sourcesportfolio/images/crossdrop.png",
+      "description": "A web application developed during a hackathon competition to help students order food online from the school's food venue. The platform aims to reduce wait times by allowing students to place and pay for orders digitally.",
+      "link": "https://github.com/Lakeram21/2022Hackaton",
+      "technologies": "React, MongoDB, Express, Node.js"
+    }
+  ]
 }
