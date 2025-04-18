@@ -5,7 +5,7 @@
       "img": "https://ronaldcoe.github.io/sourcesportfolio/images/scrambled.png",
       "description": "A word-guessing game built with Next.js where users solve daily puzzles across different categories. Players select letter tiles to guess words against a timer and can view a leaderboard of friends' scores. The game includes a simple admin panel for creating new puzzles and supports three languages: English, Spanish, and Russian.",
       "link": "https://scramble-six.vercel.app/",
-      "technologies": "React, Next.js, TypeScript, HTML, CSS"
+      "technologies": "React, Next.js, TypeScript, Tailwind, PostgreSQL, Prisma"
     },
     {
       "name": "National Park Finder",
